@@ -15,4 +15,15 @@ In this repo you'll find the arduino sketch I used to log data into Cariots, wit
 This was my first arduino project so I went for a really easy setup.
 As you'll see, all the components are plug'n'play, no soldering needed.
 
+#Box sensor setup
+
+![Image of PlantBox1](https://github.com/gilserrap/Plant0-Arduino/blob/master/Plant0/Images/Box1.jpg)
+
+![Image of PlantBox2](https://github.com/gilserrap/Plant0-Arduino/blob/master/Plant0/Images/Box2.jpg)
+
+#App screenshots
+
+![Image of App1](https://github.com/gilserrap/Plant0-Arduino/blob/master/Plant0/Images/App1.png)
+
+![Image of App2](https://github.com/gilserrap/Plant0-Arduino/blob/master/Plant0/Images/App2.png)
 
