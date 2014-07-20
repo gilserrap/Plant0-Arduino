@@ -12,5 +12,7 @@ In this repo you'll find the arduino sketch I used to log data into Cariots, wit
   - 1xGrove Base Shield V1.3.
   - 1xSeeedstudio One Wire Temperature Sensor.
 
+This was my first arduino project so I went for a really easy setup.
+As you'll see, all the components are plug'n'play, no soldering needed.
 
 
